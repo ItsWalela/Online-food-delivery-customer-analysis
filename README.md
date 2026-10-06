@@ -19,6 +19,7 @@ Source: [Online Food Delivery Preferences Dataset](https://www.kaggle.com/datase
 | Total Respondents | Would Reorder | Reorder Rate |
 |---|---|---|
 | 388 | 301 | 77.6% |
+<img width="1318" height="646" alt="image" src="https://github.com/user-attachments/assets/cf28a78b-a770-453f-9513-59c373773496" />
 
 ## Description of the added metric
 A custom **Customer Segment** column was engineered by combining two existing fields — `Output` (would reorder: Yes/No) and `Feedback` (Positive/Negative) — into four segments: **Loyal Customer**, **At Risk**, **Lost Potential**, and **Churned & Unhappy**. This turns two weak individual signals into one strong, business-usable classification.
